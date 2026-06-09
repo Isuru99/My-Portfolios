@@ -1,5 +1,3 @@
 name = "isuru-panditharatne"
 compatibility_date = "2026-06-09"
-
-[site]
-bucket = "./public"
+pages_build_output_dir = "./public"
